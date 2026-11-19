@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "tools": "allow",
+    "file_edit": "allow",
+    "file_create": "allow",
+    "bash": "allow",
+    "command_execution": "allow",
+    "package_install": "allow",
+    "migration_run": "allow",
+    "script_run": "allow"
+  },
+  "mode": "autonomous",
+  "confirmation_required": false,
+  "project": "armariovirtual"
+}
